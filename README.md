@@ -39,10 +39,6 @@ We welcome contributions to improve and enhance this project! Whether it's fixin
 If you find this project useful, please give it a ⭐ on GitHub and share it on LinkedIn! Let's connect and discuss more exciting projects.
 ## ScreenShots
 ![Screenshot 2024-07-12 092523](https://github.com/user-attachments/assets/37b70ae1-f34a-4794-883c-fa5acabcebbd)
-![Screenshot 2024-07-15 222545](https://github.com/user-attachments/assets/0cd81b38-5a8f-43c2-872a-f2d8b4321a6b)
-![Screenshot 2024-07-12 092546](https://github.com/user-attachments/assets/2c4f6c23-cec2-4087-a289-f2cc78c0bd24)
-![Screenshot 2024-07-12 092609](https://github.com/user-attachments/assets/3159b24d-822d-4e62-a238-5652c48172e7)
-![Screenshot 2024-07-15 222506](https://github.com/user-attachments/assets/a317d3dc-e081-4cfa-b35e-3c7c3baf3dbe)
 ## 
 
 🔗 [GitHub Repository](https://github.com/vijay3063)
